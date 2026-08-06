@@ -6,7 +6,7 @@ A Stunning Landing Page for people who love to Have a Drink and Relax. In case o
 
 ## Tech stack
 
-Html 5, Sass, Bootstrap, JQuery
+Html 5, Sass, Bootstrap, jQuery
 
 ## Project Structure
 
