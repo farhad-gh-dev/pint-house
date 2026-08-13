@@ -19,4 +19,4 @@ Html 5, Sass, Bootstrap, jQuery
     ├── style.css
     └── style.scss
 
-- this project uses live sass compiler (scss to plain css)
+- This project uses live sass compiler (scss to plain css)
